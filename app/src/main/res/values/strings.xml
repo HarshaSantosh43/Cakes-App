@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cakes App</string>
+    <string name="home">Home</string>
+    <string name="text_search">Search your favorites</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_comments">Add your comments for this image</string>
+    <string name="text_ex_vanilla">Ex., vanilla</string>
+
+</resources>
